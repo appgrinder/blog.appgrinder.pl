@@ -1,6 +1,7 @@
 source "http://rubygems.org"
 
 group :development do
+  gem 'heroku'
   gem 'rake'
   gem 'rack'
   gem 'jekyll'
