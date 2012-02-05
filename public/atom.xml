@@ -4,7 +4,7 @@
   <title><![CDATA[appgrinder.pl]]></title>
   <link href="http://appgrinder.pl/atom.xml" rel="self"/>
   <link href="http://appgrinder.pl/"/>
-  <updated>2012-02-05T14:31:52+01:00</updated>
+  <updated>2012-02-05T14:34:33+01:00</updated>
   <id>http://appgrinder.pl/</id>
   <author>
     <name><![CDATA[Piotr Gęga]]></name>
@@ -18,7 +18,7 @@
     <link href="http://appgrinder.pl/blog/2012/02/05/initial-commit/"/>
     <updated>2012-02-05T13:16:00+01:00</updated>
     <id>http://appgrinder.pl/blog/2012/02/05/initial-commit</id>
-    <content type="html"><![CDATA[<p>It&#8217;s always exciting when you start new things. BTW, Finally moved my home page to the <a href="http://octopress.org">octopress</a> blogging engine.</p>
+    <content type="html"><![CDATA[<p>It&#8217;s always exciting time when you start new things. BTW, Finally moved my home page to the <a href="http://octopress.org">octopress</a> blogging engine.</p>
 ]]></content>
   </entry>
   

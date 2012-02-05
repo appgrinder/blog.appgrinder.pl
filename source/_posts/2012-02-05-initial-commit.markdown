@@ -7,4 +7,4 @@ categories:
 published: true
 ---
 
-It's always exciting when you start new things. BTW, Finally moved my home page to the [octopress](http://octopress.org) blogging engine.
+It's always exciting time when you start new things. BTW, Finally moved my home page to the [octopress](http://octopress.org) blogging engine.
