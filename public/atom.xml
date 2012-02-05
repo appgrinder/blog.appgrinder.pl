@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[appgrinder.pl]]></title>
+  <link href="http://appgrinder.pl/atom.xml" rel="self"/>
+  <link href="http://appgrinder.pl/"/>
+  <updated>2012-02-05T14:04:50+01:00</updated>
+  <id>http://appgrinder.pl/</id>
+  <author>
+    <name><![CDATA[Piotr Gęga]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[initial_commit]]></title>
+    <link href="http://appgrinder.pl/blog/2012/02/05/initial-commit/"/>
+    <updated>2012-02-05T13:16:00+01:00</updated>
+    <id>http://appgrinder.pl/blog/2012/02/05/initial-commit</id>
+    <content type="html"><![CDATA[<p>It&#8217;s always exciting to start new thing. Finally moved my home page to the blogging engine.</p>
+]]></content>
+  </entry>
+  
+</feed>
