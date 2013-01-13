@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[appgrinder.pl]]></title>
-  <link href="http://appgrinder.pl/atom.xml" rel="self"/>
+  <title><![CDATA[Category: startup | appgrinder.pl]]></title>
+  <link href="http://appgrinder.pl/blog/categories/startup/atom.xml" rel="self"/>
   <link href="http://appgrinder.pl/"/>
   <updated>2013-01-13T13:50:47+01:00</updated>
   <id>http://appgrinder.pl/</id>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>Have you ever considered to start a project without having much funds (some people call it a startup ;))?
 There are at least two tools that can help you to make it almost free to start development process.</p>
 
-<p>So, you are a git-lover but you are worried that many private repositories at Github will eat up your funds? It&#8217;s not cost effective!
+<p>So, you are a git-lover but you are worried that many private repositories at Github will eat up your funds? It's not cost effective!
 This might be a case especially when you have a daily job and you work on your top secret project only from time to time.</p>
 
 <p>No problem at all - you can give <a href="https://bitbucket.org/">Bitbucket</a> a try. It offers:</p>
@@ -33,14 +33,14 @@ This might be a case especially when you have a daily job and you work on your t
 </ul>
 
 
-<p>and many more. There is only one limitation, your team can&#8217;t bigger than 10. But, i bet, it&#8217;s not that big right now :) ?</p>
+<p>and many more. There is only one limitation, your team can't bigger than 10. But, i bet, it's not that big right now :) ?</p>
 
 <p>If you prefer to use board-based methodologies (ie. <a href="http://en.wikipedia.org/wiki/Kanban">Kanban</a>) you should try <a href="https://trello.com/">Trello</a>.
-I find it far better than other competitors (I&#8217;ve tested many of them and every single app has something that makes your work really hard) as it offers everything it&#8217;s really needed to manage the team:</p>
+I find it far better than other competitors (I've tested many of them and every single app has something that makes your work really hard) as it offers everything it's really needed to manage the team:</p>
 
 <ul>
 <li>unlimited projects</li>
-<li>users can&#8217;t be grouped in the teams / organizations</li>
+<li>users can't be grouped in the teams / organizations</li>
 <li>user privileges</li>
 <li>fully-customizable process (columns, limits per column etc)</li>
 <li>comments</li>
@@ -48,18 +48,9 @@ I find it far better than other competitors (I&#8217;ve tested many of them and 
 </ul>
 
 
-<p>&#8230; .</p>
+<p>... .</p>
 
-<p>Not to mention it&#8217;s totally free! Their team promised that all of the current features will remain free forever. More future features should be available as paid plugins.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Initial commit]]></title>
-    <link href="http://appgrinder.pl/blog/2012/02/05/initial-commit/"/>
-    <updated>2012-02-05T13:16:00+01:00</updated>
-    <id>http://appgrinder.pl/blog/2012/02/05/initial-commit</id>
-    <content type="html"><![CDATA[<p>It&#8217;s always exciting time when you start new things. BTW, Finally moved my home page to the <a href="http://octopress.org">octopress</a> blogging engine.</p>
+<p>Not to mention it's totally free! Their team promised that all of the current features will remain free forever. More future features should be available as paid plugins.</p>
 ]]></content>
   </entry>
   
