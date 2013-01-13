@@ -4,10 +4,10 @@
   <title><![CDATA[Category: tools | appgrinder.pl]]></title>
   <link href="http://appgrinder.pl/blog/categories/tools/atom.xml" rel="self"/>
   <link href="http://appgrinder.pl/"/>
-  <updated>2013-01-13T13:50:47+01:00</updated>
+  <updated>2013-01-13T14:32:17+01:00</updated>
   <id>http://appgrinder.pl/</id>
   <author>
-    <name><![CDATA[Piotr Gęga]]></name>
+    <name><![CDATA[Appgrinder]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -19,12 +19,12 @@
     <updated>2012-12-07T11:48:00+01:00</updated>
     <id>http://appgrinder.pl/blog/2012/12/07/free-development-pack-for-your-startup</id>
     <content type="html"><![CDATA[<p>Have you ever considered to start a project without having much funds (some people call it a startup ;))?
-There are at least two tools that can help you to make it almost free to start development process.</p>
+There are at least two tools that can help you to make it almost <em>free</em> to start development process.</p>
 
-<p>So, you are a git-lover but you are worried that many private repositories at Github will eat up your funds? It's not cost effective!
+<p>So, you are a git-lover but you are worried that many private repositories at <em>Github</em> will eat up your funds? It's not cost effective!
 This might be a case especially when you have a daily job and you work on your top secret project only from time to time.</p>
 
-<p>No problem at all - you can give <a href="https://bitbucket.org/">Bitbucket</a> a try. It offers:</p>
+<p><em>No problem at all</em> - you can give <a href="https://bitbucket.org/">Bitbucket</a> a try. It offers:</p>
 
 <ul>
 <li>free private repositories (Git, Mercurial)</li>
@@ -35,7 +35,7 @@ This might be a case especially when you have a daily job and you work on your t
 
 <p>and many more. There is only one limitation, your team can't bigger than 10. But, i bet, it's not that big right now :) ?</p>
 
-<p>If you prefer to use board-based methodologies (ie. <a href="http://en.wikipedia.org/wiki/Kanban">Kanban</a>) you should try <a href="https://trello.com/">Trello</a>.
+<p>If you prefer to use <em>board-based methodologies</em> (ie. <a href="http://en.wikipedia.org/wiki/Kanban">Kanban</a>) you should try <a href="https://trello.com/">Trello</a>.
 I find it far better than other competitors (I've tested many of them and every single app has something that makes your work really hard) as it offers everything it's really needed to manage the team:</p>
 
 <ul>
@@ -50,7 +50,9 @@ I find it far better than other competitors (I've tested many of them and every 
 
 <p>... .</p>
 
-<p>Not to mention it's totally free! Their team promised that all of the current features will remain free forever. More future features should be available as paid plugins.</p>
+<p>Not to mention it's totally free! Their team promised that all of the current features will <em>remain free forever</em>. More future features should be available as paid plugins.</p>
+
+<p><em>Can you recommend other tools for 'startupers'?</em></p>
 ]]></content>
   </entry>
   

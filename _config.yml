@@ -4,10 +4,10 @@
 
 url: http://appgrinder.pl
 title: appgrinder.pl
-subtitle: no so technical blog of Piotr Gęga
-author: Piotr Gęga
+subtitle:
+author: Appgrinder
 simple_search: http://google.com/search
-description:
+description: (J)Ruby / Rails / Java team based in Warsaw.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user: pietia
+github_user: appgrinder
 github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: false
 
 # Twitter
-twitter_user: piotrgega
+twitter_user: appgrinder
 twitter_tweet_count: 10
 twitter_show_replies: true
 twitter_follow_button: true
